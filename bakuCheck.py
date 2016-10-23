@@ -7,7 +7,7 @@ from checker.BakuChecker import *
 import sys
 import os.path
 
-dictFile = "dict.txt"
+dictFile = os.path.dirname(os.path.realpath(__file__))+"/dict.txt"
 checkerList = []
 
 print("#"*70)
