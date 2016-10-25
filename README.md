@@ -35,11 +35,14 @@ Original text : ...iawan yang memiliki kreatifitas tinggi.
 Message       : The correct word for 'kreatifitas' is 'kreativitas'
 ```
 
+
 ## Requirement
 - Python 3.x
 
+
 ## Usage
 In this usage instruction, I assume that you use Linux Operating System. For other OS users, you can adapt this instruction for your own OS.
+
 
 ### With Symbolic Link (Recommended)
 It is recommended that you create a symbolic link from the script to `/usr/bin/bakuCheck`, so you can run this script from any folder. To create a symbolic link, simply use this following command:
@@ -51,15 +54,18 @@ Now, in the same folder with the text file that you want to check, just use this
 bakuCheck <filename>
 ```
 
+
 ### Without Symbolic Link
 If you don't have a root access, you can use this command:
 ```
 ./bakuCheck.py <path-to-file>/<filename>
 ```
 
+
 ## Improvement Suggestion
 - Add other common mistakes to the dictionary list `dict.txt`. See the format below.
 - Create more checkers.
+
 
 ## Dictionary List
 The default dictionary list file is `dict.txt` placed in the root folder of the script. To change the dictionary list file, simply change the `dictFile` constant in the `bakuCheck.py`. The format of this file follow the format below:
@@ -71,4 +77,11 @@ The default dictionary list file is `dict.txt` placed in the root folder of the 
 ...
 <correct word n>|<wrong word n>
 ```
-Note that there is a space between correct word and wrong word in each lines.
+
+Although the program automatically detect duplicate entries and treat it as one, it is indeed not a good thing to keep duplicate entries in the dictionary list file. So, I made a simple script `improveDict.py` to delete duplicate entries (leave one of them). Usage :
+```
+./improveDict.py <src> <dst>
+```
+where `src` is the current dictionary list file and `dst` is the "improved" dictionary list file.
+
+P.S : even I don't know why I named it "improve" :D
