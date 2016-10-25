@@ -16,10 +16,31 @@ class BakuChecker(BaseChecker):
             return
 
         for element in open(path).readlines():
-            element = element.split()
+            element = element.split("|")
+            element[0] = element[0].strip()
+            element[1] = element[1].strip()
+            
             self.dict.append(element)
 
         self.prepared = True
+
+    def slice(self, text, start, length, helperLength = 20):
+        ret = ""
+        ed = ""
+
+        if (start>helperLength):
+            ret += "..."
+            st = start-helperLength
+        else:
+            st = 0
+
+        if (start+length+helperLength < len(text)):
+            ed += "..."
+            end = start+length+helperLength
+        else:
+            end = len(text)
+
+        return ret+text[st:end]+ed
 
     def check(self, text):
         if (not(self.prepared)):
@@ -40,21 +61,3 @@ class BakuChecker(BaseChecker):
                 i += len(element[1])
 
         return errList
-
-    def slice(self, text, start, length, helperLength = 20):
-        ret = ""
-        ed = ""
-
-        if (start>helperLength):
-            ret += "..."
-            st = start-helperLength
-        else:
-            st = 0
-
-        if (start+length+helperLength < len(text)):
-            ed += "..."
-            end = start+length+helperLength
-        else:
-            end = len(text)
-
-        return ret+text[st:end]+ed

@@ -1,100 +1,100 @@
-abjad abjat
-aktif aktip
-aktivitas aktifitas
-andal handal
-analisis analisa
-andal handal
-antre antri
-asas azas
-apotek apotik
-atlet atlit
-atmosfer atmosfir
-bus bis
-cabai cabe
-cendekia cendikia
-cenderamata cinderamata
-detail detil
-definisi difinisi
-diagnosis diagnosa
-embus hembus
-ekstra extra
-ekstrem ekstrim
-februari pebruari
-fondasi pondasi
-formal formil
-frekuensi frekwensi
-gizi gisi
-hafal hapal
-hakikat hakekat
-hipotesis hipotesa
-hierarki hirarki
-ijazah ijasah
-izin ijin
-imbau himbau
-isap hisap
-istri isteri
-jadwal jadual
-jenazah jenasah
-jenderal jendral
-justru justeru
-karier karir
-kategori katagori
-komplet komplit
-konferensi konperensi
-kongres konggres
-konkret kongkrit
-kreativitas kreatifitas
-kualifikasi kwalifikasi
-kualitatif kwalitatif
-kuantitatif kwantitatif
-kualitas kwalitas
-kuitansi kwitansi
-lubang lobang
-maaf ma’af
-makhluk mahluk
-masjid mesjid
-merek merk
-meterai meterei
-metode metoda
-miliar milyar
-misi missi
-modern moderen
-mubazir mubadir
-mulia mulya
-mungkir pungkir
-museum museum
-napas nafas
-narasumber nara
-nasihat nasehat
-objek obyek
-objektif obyektif
-paham faham
-paspor pasport
-peduli perduli
-pikir fikir
-praktik praktek
-provinsi propinsi
-rabu rebo
-risiko resiko
-sah syah
-sekadar sekedar
-sentral central
-silakan silahkan
-sistem sistim
-saksama seksama
-subjek subyek
-subjektif subyektif
-surga sorga
-tampak nampak
-teladan tauladan
-teknik tehnik
-teknologi tehnologi
-telanjur terlanjur
-telantar terlantar
-terampil trampil
-vila villa
-wakaf waqaf
-wujud ujud
-yudikatif yudikatip
-ubah rubah
-zaman jaman
+abjad|abjat
+aktif|aktip
+aktivitas|aktifitas
+andal|handal
+analisis|analisa
+andal|handal
+antre|antri
+asas|azas
+apotek|apotik
+atlet|atlit
+atmosfer|atmosfir
+bus|bis
+cabai|cabe
+cendekia|cendikia
+cenderamata|cinderamata
+detail|detil
+definisi|difinisi
+diagnosis|diagnosa
+embus|hembus
+ekstra|extra
+ekstrem|ekstrim
+februari|pebruari
+fondasi|pondasi
+formal|formil
+frekuensi|frekwensi
+gizi|gisi
+hafal|hapal
+hakikat|hakekat
+hipotesis|hipotesa
+hierarki|hirarki
+ijazah|ijasah
+izin|ijin
+imbau|himbau
+isap|hisap
+istri|isteri
+jadwal|jadual
+jenazah|jenasah
+jenderal|jendral
+justru|justeru
+karier|karir
+kategori|katagori
+komplet|komplit
+konferensi|konperensi
+kongres|konggres
+konkret|kongkrit
+kreativitas|kreatifitas
+kualifikasi|kwalifikasi
+kualitatif|kwalitatif
+kuantitatif|kwantitatif
+kualitas|kwalitas
+kuitansi|kwitansi
+lubang|lobang
+maaf|ma’af
+makhluk|mahluk
+masjid|mesjid
+merek|merk
+meterai|meterei
+metode|metoda
+miliar|milyar
+misi|missi
+modern|moderen
+mubazir|mubadir
+mulia|mulya
+mungkir|pungkir
+museum|museum
+napas|nafas
+narasumber|nara
+nasihat|nasehat
+objek|obyek
+objektif|obyektif
+paham|faham
+paspor|pasport
+peduli|perduli
+pikir|fikir
+praktik|praktek
+provinsi|propinsi
+rabu|rebo
+risiko|resiko
+sah|syah
+sekadar|sekedar
+sentral|central
+silakan|silahkan
+sistem|sistim
+saksama|seksama
+subjek|subyek
+subjektif|subyektif
+surga|sorga
+tampak|nampak
+teladan|tauladan
+teknik|tehnik
+teknologi|tehnologi
+telanjur|terlanjur
+telantar|terlantar
+terampil|trampil
+vila|villa
+wakaf|waqaf
+wujud|ujud
+yudikatif|yudikatip
+ubah|rubah
+zaman|jaman
