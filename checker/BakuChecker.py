@@ -17,10 +17,11 @@ class BakuChecker(BaseChecker):
 
         for element in open(path).readlines():
             element = element.split("|")
-            element[0] = element[0].strip()
-            element[1] = element[1].strip()
-            
-            self.dict.append(element)
+            element[0] = element[0].strip().lower()
+            element[1] = element[1].strip().lower()
+
+            if (not(element in self.dict)):
+                self.dict.append(element)
 
         self.prepared = True
 
