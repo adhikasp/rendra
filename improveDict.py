@@ -2,6 +2,10 @@
 
 import sys
 import os.path
+from operator import itemgetter
+
+def sort_key(row):
+	return row[0]
 
 if (len(sys.argv)!=3):
     print("Usage :")
@@ -30,6 +34,8 @@ for element in open(sys.argv[1]).readlines():
     if (not(element in dictList)):
         dictList.append(element)
 
+		
+dictList.sort()
 f = open(sys.argv[2],"w")
 
 for element in dictList:
