@@ -3,5 +3,5 @@
 ## Usage
 
 ```
-  python bakuChecker.py -i [Input File] -t po
+  python check.py -i [Input File] -t po
 ```
