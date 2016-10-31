@@ -9,7 +9,7 @@ import os.path
 import polib
 import argparse
 
-dictFile = os.path.dirname(os.path.realpath(__file__))+"/to.txt"
+dictFile = os.path.dirname(os.path.realpath(__file__))+"/dict.txt"
 checkerList = []
 
 print("#"*70)
