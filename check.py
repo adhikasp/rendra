@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 
-# Author    : Turfa Auliarachman
-# Date      : October 23, 2016
-
 from checker.BakuChecker import *
 import sys
 import os.path
