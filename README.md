@@ -1,47 +1,32 @@
-# Kata Baku Checker for PO File
+# Description
 
-## Usage
+It's a (muddle) double fork of
+<https://github.com/turfaa/IndonesianKataBakuChecker> and
+<https://github.com/berviantoleo/Kata-Baku-Checker-for-PO-File>
+
+The main difference is addition of "padanan kata" or term word checker.
+There are many IT related word that left untranslated because the equivalent
+word in Indonesian is confusing or not many people familiar with it.
+Some effort by government is trying to standardize this IT term by publishing
+list of translated IT term in English. Thus, this "padanan kata" checker is
+trying to popularizing the usage of said translated IT term.
+
+Reference
+- [An article about translating foreign term]<http://www.master.web.id/mwmag/issue/01/content/bdt-istilah_asing/bdt-istilah_asing.html>
+- [Published IT term by government, as per Instruksi Presiden no 2 th 2001]<https://web.archive.org/web/20050112100450/http://vlsm.org/baku-0.txt>
+
+# Usage
 
 ```
-  python check.py -i [Input File] -t po
+  python rendra.py -i [Input File] -t po
 ```
 
-
-### Without Symbolic Link
-If you don't have a root access, you can use this command:
-```
-./bakuCheck.py <path-to-file>/<filename>
-```
-
-
-## Improvement Suggestion
-- Add other common mistakes to the dictionary list `dict.txt`. See the format below.
+# Improvement Suggestion
+- Expand dictionary.
 - Create more checkers.
+- Improve this readme.
 
 
-## Dictionary List
-The default dictionary list file is `dict.txt` placed in the root folder of the script. To change the dictionary list file, simply change the `dictFile` constant in the `bakuCheck.py`. The format of this file follow the format below:
-```
-<correct word 1>|<wrong word 1>
-<correct word 2>|<wrong word 2>
-<correct word 3>|<wrong word 3>
-<correct word 4>|<wrong word 4>
-...
-<correct word n>|<wrong word n>
-```
+# License
 
-Although the program automatically detect duplicate entries and treat it as one, it is indeed not a good thing to keep duplicate entries in the dictionary list file. So, I made a simple script `improveDict.py` to delete duplicate entries (leave one of them). Usage :
-```
-./improveDict.py <src> <dst>
-```
-where `src` is the current dictionary list file and `dst` is the "improved" dictionary list file.
-
-P.S : even I don't know why I named it "improve" :D
-
-## License
-```
-Copyright © 2016 Turfa Auliarachman <turfa_auliarachman@rocketmail.com>
-This work is free. You can redistribute it and/or modify it under the
-terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See the LICENSE file for more details.
-```
+MIT

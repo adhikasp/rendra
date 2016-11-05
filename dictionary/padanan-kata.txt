@@ -1,0 +1,630 @@
+abort|gugurkan
+access|akses
+access management|manajemen akses
+access unit|unit akses
+account|akun;rekening
+action button|tombol tindak;tombol aksi
+action setting|penataan tindak;penataan aksi
+active desktop|destop aktif
+add-ins|tertambah
+address|alamat
+address book|buku alamat
+administration|administrasi
+administration domain|ranah administrasi
+advisory system|sistem penasihat
+affirmation|penegasan
+agenda|agenda
+algorithm|algoritma
+alias|alias
+align left|rata kiri
+align right|rata kanan
+alignment|perataan
+alternate|silih
+alternate recipient|penerima pilihan
+animation|animasi
+anonymous remailer|penyurat-balik anonim
+append|bubuh
+application|aplikasi
+apply|terapkan
+apply design|desain terapan
+arrange|susun
+array|larik
+artificial intelligence|kecerdasan buatan;intelegensi
+ascending|menanjak;urut naik
+attribute|atribut
+auto clip art|gambar klip otomatis
+auto-correct|pembetulan otomatis;otokoreksi
+auto-forward|maju otomatis
+auto-replay|putar ulang otomatis
+auto-reply|balasan otomatis
+autofit|otofit
+autoformat|format otomatis;otoformat
+automatic learning|pemelajaran otomatis
+autoshapes|bentuk otomatis
+autosum|total otomatis;jumlah otomatis
+back|balik;belakang
+back slash|garis miring kiri
+back space|spasi mundur
+back up|(rekam) cadangan
+background|latar belakang
+backtracking|lacak balik
+backward chaining|perantaian balik
+band|pita
+bandwidth|lebar pita
+bar|batang
+bar-code|kode batang
+bar-code reader|pembaca kode batang
+bar-code scanner|pemindai kode batang
+base|basis
+batch|tumpak
+best-first search|telusur pertama terbaik
+binary|biner
+bit|bit
+bit map|peta bit
+blackboard model|model papan tulis
+blind copy recipient|penerima kopi buntu;penerima buntu
+body|bodi;badan
+body text|teks tubuh
+bold|tebal
+border|batas
+bps|bps
+breadth-first search|telusur pertama lebar
+break|putus
+broadcast mail|surat siaran
+broadcast videography|videografi siaran
+browse|ramban;jelajah
+browsers|peramban;penjelajah
+buffer|penyangga
+bug|kutu
+bullet|bulet
+button|tombol
+byte|bita
+cache memory|memori tembolok;memori
+cancel|batal
+capacity|kapasitas
+capslock|kancing kapital
+caption|takarir
+card|kartu
+cartridge|kartrid;selongsong;patrun
+cartridge disk|disket kartu
+cascade|riam
+cell|sel
+center|tengah
+central processing unit|unit pengolah pusat
+change case|ubah karakter
+channel|saluran;kanal
+character|aksara;karakter
+chart|bagan
+chatting|rumpi
+clear|bersih;bersihkan
+click|klik
+client|klien
+close|tutup
+closed file|berkas tertutup
+cluster|gugus;rumpun
+coding|pengodean
+color|warna
+color monitor|monitor warna
+column|kolom
+comments|komentar
+common name|nama umum
+computer|komputer
+computer aided|berbantuan komputer
+computer aided design|desain berbantuan komputer
+computer aided instruction|instruksi berbantuan komputer
+computer aided manufacturing|pemanufakturan berbantuan
+computer conference|konferensi komputer
+computer memory|memori komputer
+computer network|jaringan komputer
+conclusion part|bagian kesimpulan
+content|isi
+content type|tipe isi
+control|kontrol;kendali
+convert|ubah
+copy|salinan;kopi
+copy recipient|penerima salinan
+count|cacah
+country name|nama negara
+crack|rengkah
+cracker|perengah
+create new|buat baru
+cursor|kursor
+custom views|tilik pesanan;tilik suai
+customizes|sesuai
+cut|potong
+cut-off|putus
+daemon|jurik
+data|data
+data analysis display|tampilan analisis data
+data anaysis|analisis data
+data bank|bank data
+data interchange|saling tukar data
+data logging|pencatatan data
+data processing|pemrosesan data;pengolahan data
+data processor|pemroses data
+database|pangkalan data;basis data
+datasheet|lembar data
+date|tanggal
+debug|awakutu
+decimal|desimal
+declarative knowledge|pengetahuan deklaratif
+decoding|pengawasandian
+decrease|kurang;susut
+deduction|deduksi
+deductive inference|inferensi deduksi
+deferred delivery|pengiriman tertunda
+delete|hapus
+delete item|butir hapus
+delivery|pengiriman
+delivery notification|pemberitahuan pengiriman
+depth-first search|telusur pertama kedalaman
+descending|menurun;urut turun
+design|desain;rancangan
+desk application|aplikasi meja
+digit|digit
+digital|digital
+digital computer|komputer digital
+direct submission|submisi langsung
+direct user|pengguna langsung
+directory|direktori
+directory information|informasi direktori
+directory management|manajemen direktori
+directory name|nama direktori
+directory system|sistem direktori
+directory system agent|agen sistem direktori
+directory user|pengguna direktori
+directory user agent|agen pengguna direktori
+disc|disket;cakram;diska
+disclosure of other|penyingkapan lain
+disconnected network drive|pemacu jaringan tak-tersambung
+discuss|diskusi
+disk drive|penggerak disket;penggerak
+disk memory|memori disket;memori cakram
+diskette|disket
+display|tayangan
+display station|monitor peraga
+distribution list|senarai distribusi
+document|dokumen
+document delivery|pengiriman dokumen
+document interchange|saling tukar dokumen
+domain|ranah
+domain knowledge|pengetahuan ranah
+domain model|model ranah
+domain name server|server nama ranah;peladen nama
+down|anjlok
+download|unduh
+drag|seret
+draw|gambar;lukis
+draw table|buat tabel
+drawing|penggambaran
+drive|penggerak
+dummy|tiruan
+edit|edit
+electronic data proccessing|pemrosesan data elektronik
+electronic archive|arsip elektronik
+electronic data|data elektronik
+electronic document|dokumen elektronik
+electronic mail|surat elektronik
+electronic mailbox|kotak surat elektronik
+electronic messaging|pemesanan elektronik
+emoticon|ikon emosi
+encoded information|informasi tersandi
+encoding|penyandian
+encryption|enkripsi
+end|selesai;tamat
+enter|enter
+entry|entri
+envelope|amplop
+episode|episode
+erase|hapus
+eraser|penghapus
+error|galat
+esc|hindar;keluar balik
+evaluation function|fungsi evaluasi
+exit|keluar
+expert system|sistem pakar
+expiration date|tanggal ekspirasi
+expiry date indication|indikasi tanggal kedaluwarsa
+explorer|penjelajah
+export|ekspor
+facsimile|faksimile
+facsimile machine|mesin faksimile
+fax|faks
+fax board|papan faks
+fax machine|mesin faks
+fax modem|modem faks
+feedback|balikan;umpan balik
+fetch|jemput;ambil
+field|ruas
+field length|panjang ruas
+file|berkas
+file name|nama berkas
+filing|pemberkasan
+fill|isi
+fill character|isi karakter
+filter|tapis;filter
+filtering|penapisan
+find|cari;temukan
+firmware|peranti tegar;perangkat tegar
+floppy disk|disket liuk;cakram liuk
+folder|pelipat
+font|huruf;fonta
+font size|ukuran huruf
+footer|kaki halaman
+foreground|latar depan
+format|format
+format painter|pewarna format
+formula|formula;rumus
+forward|depan
+forward chaining|perantaian maju
+frame|bingkai
+front-end|ujung depan
+full screen|layar penuh
+gateway|gerbang
+general|umum
+generate|bangkitkan
+get|dapatkan
+gigabyte|gigabita
+go to|menuju
+gridlines|garis kisi
+hack|retas
+hacker|peretas
+hang|macet
+hanging indent|inden macet
+hard disk|cakram keras
+hardware|perangkat keras
+header|tajuk
+heading|penajukan
+help|bantuan
+heuristic search|telusur heuristik
+hide|tersembunyi
+highlight|sorot
+history|sejarah
+home|pangkal
+home base|basis pangkal
+horizontal|horizontal
+hub|hub
+hyperlink|hipertaut
+identity|identitas;tanda kenal
+if-then rule|kaidah jika-maka
+if-then statement|pernyataan jika-maka
+image interpretation|inteprestasi citra
+image understanding|pemahaman citra
+image recognition|rekognisi citra
+import|masuk;impor
+in-basket|masuk keranjang
+inbox|kotak masuk
+indent|inden
+index|indeks
+inference engine|mesin inferensi
+informatics|informatika
+information|informasi
+information object|objek informasi
+information system|sistem informasi
+information technology|teknologi informasi
+input|masukan
+input data|data masukan
+input/output|masukan/keluaran
+insert|sisip;sisipan
+install|instal
+instruction|pembelajaran;instruksi
+integrated software|perangkat keras terpadu
+interactive videography|videografi interaktif
+interface|antarmuka
+intranet|intranet
+Identification personal|personal identifikasi
+italic|italik;miring
+joining|penggabungan
+key|kunci;tombol
+key field|medan kunci;medan tombol
+key lock|terkunci
+keyboard|papan ketik;papan tombol
+keyboard entry|entri papan ketik;entri papan
+keyboard printer|pencetak papan ketik
+keypad|bantalan kunci
+keyword|kata kunci;kata sandi
+kilobyte|kilobita
+knowledge acquisition|persyaratan pengetahuan
+knowledge base|basis pengetahuan
+knowledge engineer|insinyur pengetahuan
+knowledge engineering|rekayasa pengetahuan
+label|label
+landscape|lanskap
+launch|luncur
+launching|peluncuran
+leased line|jalur sewaan
+left|kiri
+legal pleadings|pembelaan legal
+letters and fax|surat dan faks
+line|garis;jalur
+links|taut
+list|senarai
+load|muat
+loading|memuat
+lock|kancing
+log in|log masuk
+log off|log keluar
+log on|log masuk
+log out|log keluar
+lower case|huruf kecil
+macro|makro
+macro instructions|instruksi makro
+macroprocessor|makroprosesor;pemroses makro
+magnetic disc storage|penyimpan disket magnetik
+mail|surat
+mail broadcaster|penyiar surat
+mailbox|kotak surat
+mainframe|bingkai induk;kerangka induk
+management domain|ranah manajemen
+map network drive|pemacu jaringan peta
+master data|data utama;data induk
+master file|berkas induk
+means-end analysis|analisis rerata-akhir
+media player|penggelar media
+megabyte|megabita
+memo|memo
+memory|memori
+memory cache|memori tembolok
+memory capacity|kapasitas memori
+menu|menu
+merge|gabung
+message|pesan
+message handling|penanganan pesan
+message retrieval|temu kembali pesan
+message storage|penyimpanan pesan
+message transfer|transfer pesan
+message transfer agent|agen transfer pesan
+microcomputer|mikrokomputer;komputer mikro
+microprocessor|mikroprosesor;prosesor mikro
+minicomputer|minikomputer
+missing|penghilangan
+modem|modem
+moderated conference|konferensi terpadu
+monitor|monitor
+monitor display|tampilan monitor
+motherboard|papan induk
+mouse|tetikus
+movie|film
+multi-tasking|penugasan ganda
+multimedia|multimedia
+multiple of firing|ganda penyalaan
+name resolution|resolusi nama
+naming authority|otoritas penamaan
+natural language|bahasa alami
+network|jaringan
+networking|jejaring
+new mail|surat baru
+nondelivery|takterkirim
+numbering|penomoran
+numlock|kancing angka
+O/R address|alamat O/R
+object|objek
+off|padam
+office automation|otomasi kantor
+offline|terputus
+ok|oke
+on|hidup;on
+on line|terhubung;tersambung
+open|buka
+operating system|sistem operasi
+operator|operator
+optical disk|disket optik
+option|opsi;pilihan
+originator|originator
+originator/recipient|originator/penerima
+other documents|dokumen lain
+out-basket|keranjang luar
+outline|kerangka;ragangan
+output|keluaran
+pack and go|kemas dan jalankan
+page default|standar halaman
+page down|turun halaman
+page number|nomor halaman
+page preview|pratilik halaman
+page set up|tata halaman
+page up|naik halaman
+page width|lebar halaman
+paragraph|paragraf
+password|sandi lewat
+paste|pasta;rekat
+paste special|spesial pasta
+pause|jeda
+percent style|gaya persentase
+physical delivery|pengiriman fisik
+physical delivery access|akses pengiriman fisik
+picture|gambar
+pixel|piksel
+port|pangkalan
+portrait|potret
+power|daya
+preview|pratilik
+preview not available|pratilik taktersedia
+primary storage|penyimpan utama
+print|cetak
+print area|wilayah cetak
+print out|cetakan
+print preview|pratilik cetak
+print screen|cetak layar
+printer|pencetak
+private domain name|nama ranah pribadi
+private management|manajemen pribadi
+probe|kuar
+process|proses
+processor|pemroses;prosesor
+program|program
+programmer|pemrogram;programer
+programmer analyst|analis pemrogram;analis
+programming|pemrograman
+programming language|bahasa pemrograman
+prompt|siap ketik
+proof of delivery service|kedap layanan pengiriman
+properties|properti
+protect|proteksi;perlindungan
+protocol|protokol
+publications|publikasi
+query|permintaan;kueri
+quit|keluar
+random access|akses acak
+random access memory|memori akses acak
+read only memory|memori baca-saja
+reader|pembaca
+ready|siap
+receipt|menerima
+received|diterima
+recipient|penerima
+record|utas;rekam
+redo|jadi lagi
+redundancy|kelewahan;redundansi
+refresh|segar
+release|luncuran;terbitan
+remove|hapus
+rename|ganti judul;nama ulang
+repeat|ulang
+replace|ganti
+replication|replikasi
+reply|jawab
+reply all|jawab semua
+reports|laporan
+reset|tata ulang
+resource|sumber daya
+restart|start ulang
+restore|simpan ulang
+resume|teruskan lagi
+retrieval|temu kembali
+retry|coba lagi
+return|kembali
+rewrite|tulis ulang
+right|kanan
+row|baris
+ruler|mistar
+run|jalankan
+save|simpan
+save as|simpan sebagai
+save as HTML|simpan sebagai HTML
+scan|pindai
+scanner|pemindai
+screen|layar
+scroll|menggulung
+scroll lock|kunci gulung
+search|telusur
+secondary recipient|penerima sekunder
+sector|sektor
+secure access|akses aman
+security|keamanan
+segment|segmen
+select|pilih
+select all|pilih semua
+send|kirim
+send to|kirim kepada
+sent item|surat/butir terkirim
+series|seri
+server|peladen;server
+set up show|tata tampilan
+setting|penataan
+setup|tata
+shading|pembayangan
+share workbook|buku kerja bersama
+shareable directory|direktori terbagi
+sheet|lembar
+shift|alih
+shut down|tutup padam
+signature|tanda tangan
+slash|garis miring
+sleep|pudar
+slide|salindia
+slide colour scheme|skema warna salindia
+slide from files|salindia dari berkas
+slide from outlines|salindia dari ragangan
+slide layout|tata letak salindia
+slide miniature|miniatur salindia
+slide number|nomor salindia
+slide show|tampil salindia
+slide sorter|penyortir salindia;pemilah
+slot|slot
+software|perangkat lunak
+sort|sortir;pilah
+sound|suara
+source|sumber
+space|spasi
+spacebar|batang spasi
+speaker noter|pencatat pembicara
+spelling|ejaan
+split|belah
+splitting|pembelahan
+spread sheet|lembar sebar
+standby|siaga
+start|mulai;star
+start up|hidupkan
+status bar|batang status
+stop|stop
+stored message alert|siaga pesan tersimpan
+style|gaya
+style checker|pemeriksa gaya
+subdirectory|subdirektori
+subject|subjek
+submission|submisi
+subscriber|penika bawah
+subscript|tika bawah
+subtotals|subtotal
+superscript|tika atas
+symbol|simbol
+synchronize|menyelaraskan;selaras
+tab|tab
+table|tabel
+tape|pita
+taskbar|batang tugas
+teleconferencing|telekonferensi
+telecopy|telekopi
+telefax|telefaks
+teletext|teleteks
+telex|teleks
+template|templat
+terminal|terminal
+text|teks
+text box|kotak teks
+theme|tema
+thread|ulir
+throughput|terobosan
+tile|ubinan
+time|waktu
+to fax|ke faks
+toolbars|batang alat;batang perkakas
+tools|alat;perkakas
+top-level domain name|nama ranah aras puncak
+trace|runut
+tracing facility|fasilitas perunutan
+track|lintas;jalur
+transfer|transfer
+transmission|transmisi
+transmittal event|peristiwa transmital
+underline|garis bawah
+undo|tak jadi
+unhide|tak tersembunyi
+up|ungguh
+up level|naik aras
+update|mutakhir
+upload|unggah
+upper case|huruf kapital
+user|pengguna
+user agent|agen pengguna
+user friendly|akrab pengguna
+user group|kelompok pengguna
+user interface|antarmuka pengguna
+utilities|kegunaan
+version|versi
+vertical|vertikal
+video conferencing|konferensi video
+videotext|teks video
+view|tilik
+viewdata|data tilik
+viewing screen|layar penilikan
+voice mail|surat suara
+wake up|bangun
+web pages|halaman web
+whole page|halaman utuh
+window|jendela
+wizard|cekatan
+word|kata
+work load|beban kerja
+work station|anjungan kerja
+zoom|zum

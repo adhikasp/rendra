@@ -43,21 +43,26 @@ class BakuChecker(BaseChecker):
 
         return ret+text[st:end]+ed
 
-    def check(self, text):
+    def check(self, source, translation):
         if (not(self.prepared)):
             print("The dictionary is not prepared.")
             return []
 
         errList = []
 
-        textLower = text.lower()
+        textLower = translation.lower()
 
         for element in self.dict:
             i = 0
 
             while(textLower.find(element[1], i)!=-1):
                 i = textLower.find(element[1], i)
-                errList.append(ErrorMessage(self, self.slice(text, i, len(element[1])), "The correct word for '{}' is '{}'".format(element[1], element[0])))
+                error_message = ErrorMessage(
+                               self,
+                               source,
+                               self.slice(translation, i, len(element[1])),
+                               "The correct word for '{}' is '{}'".format(element[1], element[0]))
+                errList.append(error_message)
 
                 i += len(element[1])
 
