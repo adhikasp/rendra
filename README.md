@@ -12,8 +12,8 @@ list of translated IT term in English. Thus, this "padanan kata" checker is
 trying to popularizing the usage of said translated IT term.
 
 Reference
-- [An article about translating foreign term]<http://www.master.web.id/mwmag/issue/01/content/bdt-istilah_asing/bdt-istilah_asing.html>
-- [Published IT term by government, as per Instruksi Presiden no 2 th 2001]<https://web.archive.org/web/20050112100450/http://vlsm.org/baku-0.txt>
+- [An article about translating foreign term](http://www.master.web.id/mwmag/issue/01/content/bdt-istilah_asing/bdt-istilah_asing.html)
+- [Published IT term by government, as per Instruksi Presiden no 2 th 2001](https://web.archive.org/web/20050112100450/http://vlsm.org/baku-0.txt)
 
 # Usage
 
