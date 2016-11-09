@@ -75,7 +75,7 @@ broadcast videography|videografi siaran
 browse|ramban;jelajah
 browsers|peramban;penjelajah
 buffer|penyangga
-bug|kutu
+bug|galat
 bullet|bulet
 button|tombol
 byte|bita
@@ -145,7 +145,7 @@ data processor|pemroses data
 database|pangkalan data;basis data
 datasheet|lembar data
 date|tanggal
-debug|awakutu
+debug|penyelesaian galat
 decimal|desimal
 declarative knowledge|pengetahuan deklaratif
 decoding|pengawasandian
